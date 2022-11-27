@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hBcTP4V4Jv/SXh4Cxm4WcOkgXQYO4lGWux+t1sRbX9LalhEOVKLvJdwvA6vradWk/+t4sA2XAZoA11Oz7wcXkA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Eduardo\\Desktop\\Programação\\Projetojuroscompostos\\ACAimbotEsp\\ACAimbotEsp\\ACAimbotEsp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Eduardo\\.nuget\\packages\\swed32\\1.0.4\\swed32.1.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
